@@ -1,1 +1,3 @@
-# Weather-Data-Analysis
+Necessary Dependencies  
+python -m pip install --upgrade pip  
+pip install pandas matplotlib --user
